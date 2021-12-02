@@ -5,8 +5,7 @@
 - [1. Sobre](#1-sobre)
 - [2. Resumo do projeto](#2-resumo-do-projeto)
 - [3. Experiência do Usuário](#3-experiência-do-usuário)
-- [4. Protótipo de Baixa Fidelidade](#5-protótipo-de-baixa-fidelidade)
-- [5. Objetivos de aprendizagem](#6-objetivos-de-aprendizagem)
+- [4. Objetivos de aprendizagem](#6-objetivos-de-aprendizagem)
 
 
 ---
@@ -36,12 +35,7 @@ Informações relevantes sobre os personagens, como nome, gênero, espécie, loc
 7. Gostaria de saber mais sobre Rick and Morty?
 
 
-
-## 4. Protótipo de Baixa Fidelidade
-
-![Protótipo.](src/img/rick_and_morty.gif)
-
-## 5. Objetivos de aprendizagem
+## 4. Objetivos de aprendizagem
 
 ### HTML e CSS
 
