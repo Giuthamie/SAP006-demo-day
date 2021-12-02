@@ -7,7 +7,6 @@
 - [3. Experiência do Usuário](#3-experiência-do-usuário)
 - [4. Protótipo de Baixa Fidelidade](#5-protótipo-de-baixa-fidelidade)
 - [5. Objetivos de aprendizagem](#6-objetivos-de-aprendizagem)
-- [6. Autoria](#6-autoria)
 
 
 ---
@@ -25,7 +24,7 @@ Projeto Data Lovers realizado no bootcamp da Laboratória (_SAP006_) idealizado 
 
 ## 3. Experiência do Usuário
 
-Elaboramos uma pesquisa através de um _Form_ (link abaixo) para entendermos quais informações interessavam para nossos usuários. Fizemos as seguintes perguntas:
+Elaboramos uma pesquisa através de um _Form_ para entendermos quais informações interessavam para nossos usuários. Fizemos as seguintes perguntas:
 
 1. Qual personagem da Série Rick and Morty você mais se identifica?
 Informações relevantes sobre os personagens, como nome, gênero, espécie, local de origem, imagem e episódios em que aparecem.
@@ -37,17 +36,6 @@ Informações relevantes sobre os personagens, como nome, gênero, espécie, loc
 7. Gostaria de saber mais sobre Rick and Morty?
 
 
-Após essa pesquisa, disponibilizamos as informações mais relevantes para os usuários através de cards que permitem a visualização desses dados.
-
-### Interesses dos Usuários
-
-![História](src/img/form1.png)
-
-![História](src/img/form2.png)
-
-![História](src/img/form3.png)
-
-![História](src/img/form4.png)
 
 ## 4. Protótipo de Baixa Fidelidade
 
@@ -95,6 +83,3 @@ Após essa pesquisa, disponibilizamos as informações mais relevantes para os u
 - [x] Gerenciar repositórios de GitHub (clone | fork | gh-pages)
 - [x] Colaboração no Github (branches | pull requests | |tags)
 
-## 6. Autoria
-
-<a href="https://github.com/carlakeyse" target="_blank">Carla Keyse</a>, <a href="https://github.com/RafaelaCugini" target="_blank">Rafaela Cugini</a> e <a href="https://github.com/Thalita1044" target="_blank">Thalita Machado</a>
